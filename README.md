@@ -1,4 +1,4 @@
-Hello! 
-#This is Shiven Sharma's first file
+
+# This is Shiven Sharma's first file
 
 Welcome to my repo!
